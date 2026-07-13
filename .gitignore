@@ -1,0 +1,22 @@
+# Composer
+/vendor/
+
+# Environment
+.env
+
+# PHP sessions
+Sessions/
+
+# Generated PDFs
+assets/rider_payout_slips/
+assets/transaction_slip/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
