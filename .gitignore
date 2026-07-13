@@ -10,6 +10,7 @@ Sessions/
 # Generated PDFs
 assets/rider_payout_slips/
 assets/transaction_slip/
+assets/images/
 
 # Logs
 *.log
