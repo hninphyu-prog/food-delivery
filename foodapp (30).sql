@@ -345,7 +345,6 @@ INSERT INTO `expenses` (`expense_id`, `category`, `amount`, `note`, `rider_id`, 
 (32, 'Rider Payout - me', 700.00, 'Payout ID: 11, Period: 2025-11-17 to 2025-11-17', 10, NULL, '2025-12-13 04:41:09', 'payout_20251213_111109_693cee653a0ab.png'),
 (33, 'Restaurant Payout - JO JO Hot Pot & Mala Xiang Guo (Thaketa)', 11700.00, 'REJECTED: invalid - invalid - invalid - Settlement for Week 202550 (ID: 28)', NULL, 4, '2025-12-13 12:59:50', 'reprocessed_20251213_194218_693d663220455.png'),
 (34, 'Restaurant Payout - OMUK', 13875.00, 'Settlement for Week 202546 (ID: 29)', NULL, 25, '2025-12-13 12:59:59', ''),
-(35, 'Restaurant Payout - JO JO Hot Pot & Mala Xiang Guo (Thaketa)', 108525.00, 'Settlement for Week 202548 (ID: 30)', NULL, 4, '2025-12-13 13:08:24', ''),
 (36, 'Rider Payout - Kyaw Gyi', 7858.00, 'Payout ID: 29, Period: 2025-12-08 to 2025-12-14', 10, NULL, '2025-12-14 12:29:23', 'payout_20251214_185923_693eada33c751.jpg');
 
 -- --------------------------------------------------------
